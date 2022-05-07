@@ -1,1 +1,4 @@
-console.log("Squeak Card! {{squeak_user}}")
+function popUp(){
+    window.alert("Rickrolled") 
+}
+
